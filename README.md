@@ -44,3 +44,7 @@ The system helps in reducing manual effort by automatically analyzing data and p
    - Summary
    - Student data table
    - Subject-wise analysis
+  
+   - #OUTPUT
+  
+   - <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/7e39f4a9-3539-430c-898a-4222c520e7e3" />
